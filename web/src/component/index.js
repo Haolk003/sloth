@@ -1,0 +1,10 @@
+export {default as Header} from './Header';
+export {default as Cart} from './Cart';
+export {default as Footer} from './Footer';
+export {default as Filter} from './Filter';
+export {default as Products} from './Products';
+export {default as CartCol} from './CartCol';
+export {default as LoginC} from './Login';
+export {default as PaymentForm} from './PaymentForm';
+export {default as StripeContainer} from './StripeContainer';
+export {default as SlideBar} from './SlideBar';
